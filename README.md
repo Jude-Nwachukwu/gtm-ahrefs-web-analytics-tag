@@ -12,7 +12,6 @@ This is an unofficial [Google Tag Manager (GTM)](https://tagmanager.google.com/)
 - ✅ Install the official Ahrefs analytics script dynamically
 - ✅ Track custom events with `AhrefsAnalytics.sendEvent('eventName')`
 - ✅ Enable/disable console logging (great for debugging!)
-- ✅ Built to comply with GTM's sandboxed JavaScript environment
 
 ---
 
