@@ -1,0 +1,5 @@
+homepage: 'https://dumbdata.co/'
+documentation: 'https://github.com/Jude-Nwachukwu/gtm-ahrefs-web-analytics-tag'
+versions:
+  - sha: 2a98687a9d3864a9a27bd0f0b165720e26e6d0d8
+    changeNotes: Initial release.
