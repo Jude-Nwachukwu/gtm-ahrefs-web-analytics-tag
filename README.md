@@ -9,7 +9,7 @@ This is an unofficial [Google Tag Manager (GTM)](https://tagmanager.google.com/)
 
 ## 🚀 What This Template Can Do
 
-- ✅ Install the official Ahrefs analytics script dynamically
+- ✅ Install the official Ahrefs analytics script dynamically **🚨 This feature is currently unavailable due to the limitations of how GTM custom templates work and the structure of the Ahrefs installation script (attribute).**
 - ✅ Track custom events with `AhrefsAnalytics.sendEvent('eventName')`
 - ✅ Enable/disable console logging (great for debugging!)
 
@@ -33,6 +33,8 @@ When adding this tag to a GTM container:
 1. **Select Tag Type**
    - `Install Tracking Script`: Injects the Ahrefs analytics.js script.
    - `Track Event`: Sends a custom event using Ahrefs's event tracking API.
+
+**IGNORE IMPLEMENTING THE AHREFS SCRIPT USING THIS TAG TEMPLATE**
 
 2. **Fields Based on Tag Type**
    - If **Install Tracking Script** is selected:
