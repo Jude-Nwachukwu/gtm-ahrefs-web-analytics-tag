@@ -1,5 +1,10 @@
 homepage: 'https://dumbdata.co/'
 documentation: 'https://github.com/Jude-Nwachukwu/gtm-ahrefs-web-analytics-tag'
 versions:
+# LATEST VERSION
+  - sha: 51e4990593304467c9d539cb7f5e54e2d63fd8fc
+    changeNotes: Now supports only the implementation of event tracking in Ahrefs Web Analytics, with no provision for script implementation.
+    
+#INITIAL VERSION
   - sha: 2a98687a9d3864a9a27bd0f0b165720e26e6d0d8
     changeNotes: Initial release.
