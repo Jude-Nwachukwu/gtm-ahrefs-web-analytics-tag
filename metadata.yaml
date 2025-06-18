@@ -2,7 +2,7 @@
 homepage: 'https://dumbdata.co/'
 documentation: 'https://github.com/Jude-Nwachukwu/gtm-ahrefs-web-analytics-tag'
 versions:
-# LATEST VERSION
+#LATEST VERSION
   - sha: 1a2e711396cd30ac52bdfe8929b9821bef590001
     changeNotes: INFO JSON now includes the category.
 
